@@ -11,3 +11,6 @@ test-ledger
 
 lib
 .crates
+NOTES.md
+INIT_INFO.md
+PROGRAM.md
